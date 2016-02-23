@@ -15,20 +15,20 @@
   }
   
   table {
-    width: 600px;
+    width: 800px;
     border: 1px solid #CCC;
     background-color: #DDD;
-    margin: 20px;
+    margin: 40px;
   }
   
 </style>
 </head>
 <body>
-<h1>Table</h1>
+<h1>about my life</h1>
 <table>
-  <caption>student</caption>
+  <caption>me</caption>
   <tr>
-    <td>Company: MIU</td>
+    <td>University: MIU</td>
     <td>City: Miami, FL</td>
   </tr>
   <tr>
@@ -53,6 +53,13 @@
   <tr><td>College: University of Ulm</td><td>Graduation: 2016</td></tr>
   <tr><td>City: jeddah, KSA</td></tr>
   <tr><td>Major: advertising.</td><td>M.S.</td></tr>
+</table>
+
+<table>
+  <caption>Dreams</caption>
+  <tr><td>own a company/td></tr>
+  <tr><td>Work in NEW YOURK</td></tr>
+  <tr><td>open a lot of business</td></tr>
 </table>
 
 </body>
