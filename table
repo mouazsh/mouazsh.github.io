@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+<head>
+<title>mouaz Shaabain Resume</title>
+<style>
+  body {
+    font-family: sans-serif;
+  }
+  
+  caption {
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: darkgrey;
+    color: #fff;
+  }
+  
+  table {
+    width: 600px;
+    border: 1px solid #CCC;
+    background-color: #DDD;
+    margin: 20px;
+  }
+  
+</style>
+</head>
+<body>
+<h1>Resume</h1>
+<table>
+  <caption>student</caption>
+  <tr>
+    <td>Company: MIU</td>
+    <td>City: Miami, FL</td>
+  </tr>
+  <tr>
+    <td>Title: Student</td>
+    <td>From: 02/2016</td>
+    <td>To: Present</td>
+  </tr>
+  <tr>
+    <td>
+      Description:
+      <ul>
+        <li>advertising</li>
+        <li>Graphic design</li>
+        <li>Soccor player :)</li>
+        <li>Basketball player</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<table>
+  <caption>Education</caption>
+  <tr><td>College: University of Ulm</td><td>Graduation: 2001</td></tr>
+  <tr><td>City: Ulm, Germany</td></tr>
+  <tr><td>Major: Comp. Eng.</td><td>M.S.</td></tr>
+</table>
+
+</body>
+</html>
