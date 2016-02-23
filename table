@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<title>mouaz Shaabain Resume</title>
+<title>mouaz Shaabain </title>
 <style>
   body {
     font-family: sans-serif;
@@ -24,7 +24,7 @@
 </style>
 </head>
 <body>
-<h1>Resume</h1>
+<h1>Table</h1>
 <table>
   <caption>student</caption>
   <tr>
@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td>Title: Student</td>
-    <td>From: 02/2016</td>
+    <td>From: 01/2013</td>
     <td>To: Present</td>
   </tr>
   <tr>
@@ -50,9 +50,9 @@
 </table>
 <table>
   <caption>Education</caption>
-  <tr><td>College: University of Ulm</td><td>Graduation: 2001</td></tr>
-  <tr><td>City: Ulm, Germany</td></tr>
-  <tr><td>Major: Comp. Eng.</td><td>M.S.</td></tr>
+  <tr><td>College: University of Ulm</td><td>Graduation: 2016</td></tr>
+  <tr><td>City: jeddah, KSA</td></tr>
+  <tr><td>Major: advertising.</td><td>M.S.</td></tr>
 </table>
 
 </body>
