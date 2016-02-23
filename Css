@@ -1,14 +1,15 @@
+
 <div>
   <h1> Creative Studio in Downtown Miami</h1>
   <h2>we are a small agency with a big ♥ for design</h2>
+  <footer>Miami International University of Art & Design
+    &copy; 2016
+  </footer>
 </div>
 
-
-
 body { 
-  background-image: linear-gradient(-90deg, #8E8F5B, #5B8F7F);
-  color:#FFF;
+  background: linear-gradient(to bottom, rgba(26,30,224,0.7) 0%,rgba(160,196,43,0.7) 16%,rgba(234,150,72,0.7) 43%,rgba(204,42,190,0.7) 68%,rgba(249,243,57,0.7) 100%),url(http://www.bestdesertsafariindubai.com/blog/wp-content/uploads/2015/12/dubai.jpg) center center;;
+  color:#DDD;
   font-family:Georgia;
   text-align: center;
   min-height:350px;
-}
