@@ -2,15 +2,19 @@
 <html>
   <head>
   <link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css">
+  <meta charset="utf-8">
+  
    <title>Mouaz</title>
     <img src="http://i.imgur.com/vTlhjJ7.png">
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
+  
   <nav>
     Home| <a href="#wh-we-are">
     About</a> |Contact  <a href="portfolio.html"> portfolio</a>
     <a href="Resume.html">Resume</a> |
   </nav>
+  
   <body>
      <p>Follow me</p>
      
@@ -22,4 +26,3 @@
   
   </body>
        </html>
-
