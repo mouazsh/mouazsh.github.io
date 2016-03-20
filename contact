@@ -1,6 +1,12 @@
 <!doctype html>
 <html>
   <head>
+  <nav>
+    Home| <a href="#wh-we-are">
+    About</a> |Contact  <a href="portfolio.html"> portfolio</a>
+    <a href="Resume.html">Resume</a> |
+  </nav>
+
      <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <meta charset="utf-8">
 <img src="https://g.twimg.com/twitter-bird-16x16.png">
