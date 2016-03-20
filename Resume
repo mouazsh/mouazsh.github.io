@@ -13,18 +13,17 @@
     <div class='topMenu'>
       <nav>
   <a href="/">Home</a>|
-  <a href="Aboutme.html">About me</a> |
+  <a href="About.html">About</a> |
   <a href="Contact.html">Contact</a> |
-  <a href="resume.html">Resume</a> |
-  <a href="Gradients.html">Gradients</a> |
-  <a href="Gallery.html">Gallery</a>
+  <a href="Resume.html">resume</a> |
+  <a href="Portfolio.html">portfolio</a>
  <br><div class="topcenter"><p>Mouaz Shaabain</p></div>
  <img src="mouazlogo.png" alt="mouazlogo.png">
       </nav>
      </div>
 
 <h1>Resume</h1>
-<iframe class="resume" src="MouazShaabain resume1.pdf"></iframe>
+<iframe class="resume" src="MouazShaabain Mouaz resume.pdf.pdf"></iframe>
 
 </body>
 </html>
