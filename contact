@@ -1,14 +1,25 @@
 <!doctype html>
 <html>
   <head>
+  <link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css">
+   <title>Mouaz</title>
+    <img src="http://i.imgur.com/vTlhjJ7.png">
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
   <nav>
     Home| <a href="#wh-we-are">
     About</a> |Contact  <a href="portfolio.html"> portfolio</a>
     <a href="Resume.html">Resume</a> |
   </nav>
-
+  <body>
+     <p>Follow me</p>
+     
      <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <meta charset="utf-8">
 <img src="https://g.twimg.com/twitter-bird-16x16.png">
   <img src="http://cigarsandcufflinks.com/home/wp-content/uploads/2014/06/instagram-icon-e1402692471696.png">
   <img src="http://creativedroplets.com/wp-content/plugins/light-social/linkedin.png">
+  
+  </body>
+       </html>
+
